@@ -1,2 +1,2 @@
 # Heartrate_simulation
-simulates a real-time data from patients sensor to detect for annomalies
+simulates a real-time data stream from patients sensor to detect for annomalies
